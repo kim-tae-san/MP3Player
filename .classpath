@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/2017136027_JAVA_ECLIPSE/MP3Player/jl1.0.1.jar" sourcepath="C:/2017136027_JAVA_ECLIPSE/MP3Player/src.zip"/>
+	<classpathentry kind="lib" path="C:/2017136027_JAVA_ECLIPSE/MP3Player/jaudiotagger-2.2.6-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
